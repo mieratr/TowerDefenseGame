@@ -1,4 +1,4 @@
 # TowerDefenseGame
 
 ## Class Diagram
-![Class Diagram](Class Diagram.png)
+![Class Diagram](ClassDiagram.png)
